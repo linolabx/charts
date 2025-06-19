@@ -1,0 +1,5 @@
+namespace: kube-public
+fullname: network-exposer
+v2ray:
+  port: 12377
+  client_id: ""
